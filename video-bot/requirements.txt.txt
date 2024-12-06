@@ -1,0 +1,6 @@
+requests
+aiohttp
+aiofiles
+watchdog
+tqdm
+python-dotenv
